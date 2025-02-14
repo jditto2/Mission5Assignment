@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "75qmzsgOjMSXM+fChzdZm07P1PiajK1ZA8HBusAqwWQ=",
+  "Hash": "XEL82/POgoYjn0lbl7mtBCUDKF+5noqCsDJarrEIP6E=",
   "Source": "Mission5Assignment",
   "BasePath": "_content/Mission5Assignment",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/joshditto/Desktop/DotNET/Mission5Assignment/wwwroot/images/3d-icon.png",
-      "SourceId": "Mission5Assignment",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshditto/Desktop/DotNET/Mission5Assignment/wwwroot/",
-      "BasePath": "_content/Mission5Assignment",
-      "RelativePath": "images/3d-icon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/3d-icon.png"
     },
     {
       "Identity": "/Users/joshditto/Desktop/DotNET/Mission5Assignment/wwwroot/images/print-sample.jpg",

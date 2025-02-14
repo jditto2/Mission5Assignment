@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/joshditto/Desktop/DotNET/Mission5Assignment/wwwroot/images/3d-icon.png",
-      "PackagePath": "staticwebassets/images/3d-icon.png"
-    },
-    {
       "Id": "/Users/joshditto/Desktop/DotNET/Mission5Assignment/wwwroot/images/print-sample.jpg",
       "PackagePath": "staticwebassets/images/print-sample.jpg"
     },

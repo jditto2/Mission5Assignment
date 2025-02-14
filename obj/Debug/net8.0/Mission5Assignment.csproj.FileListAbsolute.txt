@@ -29,3 +29,4 @@
 /Users/joshditto/Desktop/DotNET/Mission5Assignment/obj/Debug/net8.0/Mission5Assignment.pdb
 /Users/joshditto/Desktop/DotNET/Mission5Assignment/obj/Debug/net8.0/Mission5Assignment.genruntimeconfig.cache
 /Users/joshditto/Desktop/DotNET/Mission5Assignment/obj/Debug/net8.0/ref/Mission5Assignment.dll
+/Users/joshditto/Desktop/DotNET/Mission5Assignment/obj/Debug/net8.0/Mission5Assignment.sourcelink.json
